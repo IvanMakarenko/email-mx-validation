@@ -1,6 +1,6 @@
 {
     "name": "makarenko-i-v/email-mx-validation",
-    "description": "Email validation of MX record of domain.",
+    "description": "Validation MX record of e-mail domain.",
     "type": "library",
     "require": {
         "yiisoft/yii2": "~2",
