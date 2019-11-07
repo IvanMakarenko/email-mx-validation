@@ -1,0 +1,17 @@
+{
+    "name": "yii2/email-mx-validation",
+    "description": "Email validation of MX record of domain.",
+    "type": "library",
+    "require": {
+        "yiisoft/yii2": "~2",
+        "php": ">=5.6.0"
+    },
+    "license": "BSD",
+    "authors": [
+        {
+            "name": "Ivan Makarenko",
+            "email": "shketiam@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
