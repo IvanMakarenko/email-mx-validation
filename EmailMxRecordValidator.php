@@ -1,6 +1,6 @@
 <?php
 
-namespace email-mx-validation;
+namespace makarenko-i-v\email-mx-validation;
 
 use Yii;
 use yii\validators\Validator;
