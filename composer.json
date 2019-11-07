@@ -1,5 +1,5 @@
 {
-    "name": "makarenko/email-mx-validation",
+    "name": "makarenko-i-v/email-mx-validation",
     "description": "Email validation of MX record of domain.",
     "type": "library",
     "require": {
